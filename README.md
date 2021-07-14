@@ -2,8 +2,8 @@
 <p align="center">Fortnite Client designed for modding</p>
 <span align="center">
    <div>
-     <a href="https://discord.gg"> crackhead</a>
+     <a href="https://discord.gg/mNutpgwb"> dicksord server</a>
      |
-      <a href="https://discord.gg"> crackhead</a>
+      <a href="poopbutt.dev"> website</a>
   </div>
 </span>
