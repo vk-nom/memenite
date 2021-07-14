@@ -13,21 +13,41 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="framework.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="pch.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <Filter Include="Header Files\mem">
+      <UniqueIdentifier>{5c0ac633-6f9c-49af-a23b-cec38227a1b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\fn">
+      <UniqueIdentifier>{fffbc0d3-48ca-45ab-9ca1-2486ec8838cc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pch.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="MemoryHelper.cpp">
+      <Filter>Header Files\mem</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="headers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MemoryHelper.h">
+      <Filter>Header Files\mem</Filter>
+    </ClInclude>
+    <ClInclude Include="api.h">
+      <Filter>Header Files\fn</Filter>
+    </ClInclude>
+    <ClInclude Include="no_spoofcall.h">
+      <Filter>Header Files\fn</Filter>
+    </ClInclude>
+    <ClInclude Include="siggies.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="no_spoofcall.asm">
+      <Filter>Header Files\fn</Filter>
+    </MASM>
   </ItemGroup>
 </Project>
