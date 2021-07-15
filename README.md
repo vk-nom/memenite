@@ -1,5 +1,5 @@
 <h1 align="center">Memenite</h1>
-<p align="center">Fortnite Client designed for modding</p>
+<p align="center">Fortnite Client designed for modding ( launcher )</p>
 <span align="center">
    <div>
      <a href="https://discord.gg/mNutpgwb"> dicksord server</a>
