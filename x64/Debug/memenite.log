@@ -1,7 +1,0 @@
-﻿  Assembling no_spoofcall.asm...
-  dllmain.cpp
-C:\Users\kaihe\Documents\GitHub\memenite\api.h(138,1): warning C4267: '=': conversion from 'size_t' to 'int32_t', possible loss of data
-C:\Users\kaihe\Documents\GitHub\memenite\dllmain.cpp(16,20): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  MemoryHelper.cpp
-  Generating Code...
-  memenite.vcxproj -> C:\Users\kaihe\Documents\GitHub\memenite\x64\Debug\memenite.dll
