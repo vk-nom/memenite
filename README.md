@@ -9,3 +9,4 @@
 </span>
 
 <p align="center">currently hella fucked up but ill try to fix soon</p>
+<p align="center">code refractor/clean up soon nom fucked it up</p>
