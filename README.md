@@ -7,3 +7,5 @@
       <a href="poopbutt.dev"> website</a>
   </div>
 </span>
+
+<p align="center">currently hella fucked up but ill try to fix soon</p>
